@@ -1,4 +1,5 @@
 # yosemite-metacity-theme
 Metacity Theme
 
-on going
+# Credits to
+elementart Art Team
